@@ -1,7 +1,4 @@
--- Pet Hatcher Logger Script (Simplified)
--- Author: LETSTEAMYT
--- Date: 2025
-
+print("[PetHatcherLogger] Loaded!")
 repeat wait() until game:IsLoaded()
 
 local Players = game:GetService("Players")
